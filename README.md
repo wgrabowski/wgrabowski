@@ -1,1 +1,1 @@
-&emsp;
+<marquee>Witaj świecie!</marquee>
